@@ -1,7 +1,7 @@
 ![Header](..png)
 <h1 align="center">Hi 👋, I'm Rahul Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489" alt="Coding">
+<img align="right" width="400" src="[https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2FbGgsc5mWoryfgKBx1u%2F200w.gif%3Fcid%3D6c09b952gipael2jin5r3t0ll00m0bzk62c8iqyml5ceisyj%26ep%3Dv1_gifs_search%26rid%3D200w.gif%26ct%3Dg&tbnid=RXWDqylOlu54fM&vet=12ahUKEwiBnPz-tLeFAxX0mWMGHXjSDdIQMygDegQIARB7..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&docid=byl13oNOX0zH9M&w=200&h=200&q=coding%20gif&ved=2ahUKEwiBnPz-tLeFAxX0mWMGHXjSDdIQMygDegQIARB7)" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulophile&label=Profile%20views&color=0e75b6&style=flat" alt="rahulophile" /> </p>
 
