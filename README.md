@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)<h1 align="center">Hi 👋, I'm Rahul Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulophile&label=Profile%20views&color=0e75b6&style=flat" alt="rahulophile" /> </p>
 
@@ -19,6 +19,7 @@
 - ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left">
 <a href="https://twitter.com/rahulophile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulophile" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahulophile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulophile" height="30" width="40" /></a>
