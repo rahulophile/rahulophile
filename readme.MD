@@ -1,90 +1,90 @@
-# Hey, I'm Rahul Raj 👋
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=30&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=60&lines=Hey%2C+I'm+UNRIVALLEDKING;Welcome+to+my+Profile;where+you'll+find+a+glimpse+into+my+world.;Feel+free+to+explore+and+get+to+know+me+better." align="middle" alt="Hey, I'm UNRIVALLEDKING Welcome to my Profile! animated typed out"></p>
+<img  src="assests/borderseperator.gif">
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=UNRIVALLEDKING&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+</p> <br>
+
+<img align="right" src="devcard.svg" width="350" alt="UNRIVALLEDKING - Aditya Kumar - Technical Lead at GDG Patna"/>
+
+<h2 align="center">Technical Lead at GDG Patna || Software Development Lead</h2>
+<h2 align="center"> Self-taught, Curious, and <img src="assests/flamey.gif" width="30"/>Passionate<img src="assests/flamey.gif" width="30"/> about Coding!</h2>
+
+- 🌳 I’m currently learning NodeJs, Express, MongoDB & Django REST API! <br>
+  <br>
+
+- 🐾 I’m looking to network and make friends here! <br><br>
+
+- 🌊 2023 Goals: Keep Learning & Help others in any way possible so feel free to ask me anything! 😆 <br><br>
+
+- ☕ Interest: Coding, Anime, Manga, Gaming, Coffee. <br><br>
+
+- :octocat: Hobbies: Anime, Manga, Gaming, Novel & Travelling 🧳✈🚢 <br><br>
+
+<h2></h2><br>
+
+<p align="center"> 
+  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
+</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey,%20I'm%20Rahul%20Raj&height=100&section=header&fontSize=90&animation=fadeIn&fontAlignY=53&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=62&descAlign=50" />
+  <h2> <strong> Actively Learning </strong></h2>
+  <img src="https://skillicons.dev/icons?i=nodejs,js,py,nextjs,mongodb,express,git,github,tailwind,html,css," alt="skills actively learning logos"> <br> 
+  <h2> <strong> Plan to Learn </strong></h2>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin,django,graphql,aws" alt="skills planning to learn logos">
 </div>
 
+<p align="center"><br>
+  <img align="center" src="assests/room-lo-fi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
+</p>
+  
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=console.log('Hello%20World!');%20//%20I'm%20Rahul%20Raj;while(alive)%20%7B;%20%20%20code();%20%20%20learn();%20%20%20grow();%20%7D;if(brain%20!%3D%20empty)%20%7B;%20%20%20keepCoding();%20%7D" alt="Typing SVG" />
-</div>
+  <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=UNRIVALLEDKING&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
-## 🎯 About Me
-- 🌳 I'm currently learning Full Stack Development!
-- 🐾 I'm looking to network and make friends here!
-- 🌊 2024 Goals: Keep Learning & Help others in any way possible
-- ☕ Interest: Coding, Gaming, Coffee, Tech
-- 🧳 Hobbies: Gaming, Reading, Travelling & Coding
+<img src="https://github-readme-stats.vercel.app/api?username=UNRIVALLEDKING&show_icons=true&theme=radical&text_color=0079fa&card_width=500&bg_color=000000&hide_border=true&icon_color=0079fa&title_color=0079fa" alt="Most used languages" /> <br>
 
-## 🛠️ Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</div>
+<!-- <img src="https://streak-stats.demolab.com?user=UNRIVALLEDKING&theme=dark&hide_border=true&border_radius=5&background=000000&sideNums=0079FA&stroke=0079FA&ring=0079FA&currStreakNum=0079FA&currStreakLabel=0079FA&sideLabels=0079FA&fire=0079FA&dates=0079FA)" alt="UNRIVALLEDKING" align="middle"><br> -->
 
-## 📊 My Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulophile&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulophile&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00" alt="Top Languages" />
-</div>
+![UNRIVALLEDKING github contribution streak](https://streak-stats.demolab.com?user=UNRIVALLEDKING&theme=dark&hide_border=true&border_radius=5&background=000000&sideNums=0079FA&stroke=0079FA&ring=0079FA&currStreakNum=0079FA&currStreakLabel=0079FA&sideLabels=0079FA&fire=0079FA&dates=0079FA)
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulophile&theme=merko&hide_border=true&area=true&area_color=00FF00" alt="Activity Graph" />
-</div>
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=UNRIVALLEDKING&theme=dark&hide_border=true&border_radius=5&background=000000&sideNums=0079FA&stroke=0079FA&ring=0079FA&currStreakNum=0079FA&currStreakLabel=0079FA&sideLabels=0079FA&fire=0079FA&dates=0079FA)](https://git.io/streak-stats) -->
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulophile&theme=merko&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
-</div>
+![UNRIVALLEDKING most used programming language](https://github-readme-stats.vercel.app/api/top-langs/?username=UNRIVALLEDKING&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&show_icons=true&layout=compact)
 
-## 🌐 Connect With Me
-<div align="center">
-  <a href="https://linkedin.com/in/rahulophile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <p>
+    <a href="https://www.codewars.com/users/UNRIVALLEDKING">
+      <img src="https://github.r2v.ch/codewars?user=UNRIVALLEDKING&top_languages=true&theme=midnight_blue" width="500" alt="UNRIVALLEDKING" />
+    </a>
+  </p>
+
+![UNRIVALLEDKING github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=UNRIVALLEDKING&custom_title=UNRIVALLEDKING's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
+
+<!-- ![UNRIVALLEDKING Spotify Stats](https://spotify-recently-played-readme.vercel.app/api?user=31c4mnrtpzwxeqidhzujff624v4a&count=10) -->
+
+![UNRIVALLEDKING Spotify Stats](https://spotify-recently-played-readme.vercel.app/api?user=31c4mnrtpzwxeqidhzujff624v4a&width=1000&unique=true)
+
+<p align="center">
+<img src="assests/loficity.gif" alt="Lofi Nightlife city scene" width=1000 />
+</p>
+
+<img src="assests/borderseperator.gif">
+
+![UNRIVALLEDKING github profile views](https://count.getloli.com/get/@unrivalledking?theme=rule34)
+
+  <h3 align="center">Connect With Me</h3>
+<p align="center" >
+  <a href="https://www.linkedin.com/in/unrivalledking/" target="_blank">
+    <img align="top" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
   </a>
-  <a href="https://twitter.com/rahulophile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://profile-summary-for-github.herokuapp.com/user/UNRIVALLEDKING" target="_blank">
+    <img align="top" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
   </a>
-  <a href="https://github.com/rahulophile">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:adityakumarunrivalledking" target="_blank">
+    <img align="top" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
   </a>
-  <a href="https://rahulophile.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/rahoolsahani">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
-## 📚 Featured Projects
-<div align="center">
-  <a href="https://github.com/rahulophile/PYTHON-PRACTICE-NOOB-MODE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulophile&repo=PYTHON-PRACTICE-NOOB-MODE&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00" />
-  </a>
-  <a href="https://github.com/rahulophile/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulophile&repo=portfolio&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00" />
-  </a>
-</div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulophile&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rahulophile?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/rahulophile?label=Stars&style=social" alt="GitHub Stars" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Readme Quotes" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Stay+Curious;Keep+Learning;Code+Better;Build+More" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+  <a><a href="https://discordapp.com/users/688632317509763072" target="_blank">
+    <img align="center" alt="Discord" height="50" width="50" src="assests/discordlogo.png"/>
+      </a>
+</p>
