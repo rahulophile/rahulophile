@@ -1,0 +1,21 @@
+name: Update Profile Activity
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Update Profile Activity
+        run: |
+          echo "🔄 Last Updated: $(date)" > last-update.txt
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add last-update.txt
+          git commit -m "Update profile activity" || exit 0
+          git push 
