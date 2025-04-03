@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Rahul%20Raj%20|%20Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=55&descAlign=50" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Rahul+Raj;A+Full+Stack+Developer;A+Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
@@ -20,6 +24,10 @@
 </div>
 
 ## 🚀 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=💻+Web+Developer;🧠+Problem+Solver;📚+Curious+Learner;🚀+Full+Stack+Developer" alt="Typing SVG" />
+</div>
+
 ```ascii
 ██╗   ██╗ █████╗ ██╗  ██╗██╗   ██╗██╗      ██████╗ 
 ██║   ██║██╔══██╗██║ ██╔╝██║   ██║██║     ██╔═══██╗
@@ -28,10 +36,6 @@
  ╚████╔╝ ██║  ██║██║  ██║╚██████╔╝███████╗╚██████╔╝
   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝ 
 ```
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=💻+Web+Developer;🧠+Problem+Solver;📚+Curious+Learner;🚀+Full+Stack+Developer" alt="Typing SVG" />
-</div>
 
 ## 🛡️ Tech Stack
 <div align="center">
@@ -112,4 +116,8 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Stay+Curious;Keep+Learning;Code+Better;Build+More" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer" />
 </div>
